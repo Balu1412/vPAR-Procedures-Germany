@@ -1,0 +1,15 @@
+// ID:course:threshold latitude:threshold longitude:glidepath(degrees):threshold elevation(feet)
+
+// ETNN - Noervenich
+ETNN06:067:50.828049:6.646431:3.0:380
+ETNN24:247:50.834531:6.670351:3.0:344
+
+// ETNG - Geilenkirchen
+ETNG09:091:50.960969:6.027991:3.0:264
+ETNG27:271:50.960677:6.056514:3.0:290
+
+// ETHF - Fritzlar
+ETHF30:299:51.113488:9.289034:3.4:564
+
+// ETHN - Stetten
+ETHN25:255:49.392697:9.962749:3.4:1536

@@ -1,0 +1,9 @@
+// ID:course:threshold latitude:threshold longitude:glidepath(degrees):threshold elevation(feet)
+
+// ETNL - Rostock-Laage
+ETNL09:098:53.919104:12.266619:3.0:140
+ETNL27:278:53.917076:12.291952:3.0:134
+
+// ETSH - Holzdorf
+ETSH09:093:51.768290:13.156190:3.0:260
+ETSH27:273:51.767453:13.178983:3.0:265
